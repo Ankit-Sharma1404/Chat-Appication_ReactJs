@@ -20,4 +20,6 @@ Features:
     <li>Then, create a room called <b>"General."</b></li></ul>
   <li>In last start the server <b>"npm start"</b></li>
 </ol>  
+
+<h3>Output</h3>
     
